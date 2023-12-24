@@ -25,6 +25,8 @@ Display the output.
 
 ## PROGRAM:
 ```
+#Developed by: AJITH KUMAR A
+#Register Number: 23002150
 def program():
     count=0
     with open("text.txt","r") as f:
